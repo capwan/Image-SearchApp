@@ -7,4 +7,4 @@ Simple Image Search App using unsplash API.
 Just open `index.html`
 
 
-**[Live Demo][(https://capwan.github.io/Image-SearchApp/)**
+**[Live Demo](https://capwan.github.io/Image-SearchApp/)**
